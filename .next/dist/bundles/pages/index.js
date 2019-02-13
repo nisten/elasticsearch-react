@@ -943,7 +943,7 @@ module.exports = /******/ (function(modules) {
                       "img",
                       {
                         className: "app-logo",
-                        src: "/static/logo.png",
+                        src: "static/logo.png",
                         alt: "MovieSearch",
                         __source: {
                           fileName: _jsxFileName,

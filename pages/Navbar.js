@@ -35,7 +35,7 @@ class Navbar extends Component {
     return (
       <div className="navbar">
         <div className="logo-container">
-          <img className="app-logo" src="/static/logo.png" alt="MovieSearch" />
+          <img className="app-logo" src="static/logo.png" alt="MovieSearch" />
         </div>
 
         <div className="search-container">

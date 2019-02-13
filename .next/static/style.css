@@ -89,6 +89,7 @@ hr {
 .app-logo {
   margin-left: 0px !important;
   margin-top: 3px;
+  width: 160px;
 }
 
 .search-container {

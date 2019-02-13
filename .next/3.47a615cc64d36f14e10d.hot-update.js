@@ -192,7 +192,7 @@ webpackHotUpdate(3, {
                       "img",
                       {
                         className: "app-logo",
-                        src: "/static/logo.png",
+                        src: "/Images/logo.jpg",
                         alt: "MovieSearch",
                         __source: {
                           fileName: _jsxFileName,
@@ -354,4 +354,4 @@ webpackHotUpdate(3, {
     /***/
   }
 });
-//# sourceMappingURL=3.a0e786182de5c99c3d32.hot-update.js.map
+//# sourceMappingURL=3.47a615cc64d36f14e10d.hot-update.js.map

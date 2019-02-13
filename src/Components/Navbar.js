@@ -16,7 +16,7 @@ class Navbar extends Component {
             categoryField="title"
             className="search-bar"
             queryFormat="and"
-            placeholder="Search for movies..."
+            placeholder="Search for images..."
             iconPosition="left"
             autosuggest={false}
             filterLabel="search"
